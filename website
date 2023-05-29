@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+    <img src="https://drive.google.com/file/d/1DCPG1gLToRVy9hpTVE5sBNJsB6O3Bji0/view" alt="RMIT University website">
+
+<h3 style="color:red;"><b>RMIT is a global university of technology, design and enterprise</b></h3>
+<p style="color:darkblue;"><b>Top 200 universities worldwide (QS World University Ranking 2021)</b></p>
+<p style="color:darkblue;">12,456 industry placements for students in 2022</p>
+<p style="color:darkblue;">90,000+ students from 194 different countries studing at RMIT</p>
+
+<h3 style="color:red;">Enjoy a global experience </h3>
+<p>As part of a truly global university, we offer experiences at campuses all over the world</p>
+
+<h3 style="color:blue;"><b>Australia</b></h3>
+<p> Melbournce city campus</p>
+<p>Bundoora campus</p>
+<p>Brunswick campus</p>
+<h3 style="color:blue;"><b>Vietnam</b></h3>
+<p>Saigon South campus</p>
+<p>Hanoi campus</p>
+<h3 style="color:blue;"><b>Spain</b></h3>
+<p>Barcelona campus</p>
+
+<h3 style="color:white;"><b>Explore your study options</b></h3>
+<h3 style="color:white;">There are many different paths you can take on your higher education journey</h3>
+
+
+</body>
+</html>
